@@ -1,0 +1,2 @@
+# README
+- 👋 Hi, I’m Ramandeep - 👀 I’m Passionate about the dynamic and ever-evolving field of IT - 🌱 I’m currently learning Data Science with AI - 📫 Reach me - ramandeep125005@outlook.com
